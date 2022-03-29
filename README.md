@@ -33,11 +33,13 @@ const regexp = /the/gi
 ```js
 const str = `
 010-1234-5678
-theasd@naver.com
+kimleeparkseolim@naver.com
 http://www.omdbapi.com/?apikey=7035c60c&s=frozen
-hi THE hellow what are u doing.
-abbfcccdddd
-`
+oh where did you get it??
+ummm...
+i can't remember where did get it.
+ahhhhhhhhh.
+d`
 
 ```
 
